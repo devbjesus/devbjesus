@@ -58,21 +58,4 @@ I build fast, reliable web experiences and automate business workflows so market
 
 <a href="https://linkedin.com/in/devbjesus"> See more informations on my LinkedIn by clicking here</a>
 
----
-
-### About My solutions
-
-- High-performance storefronts and landing pages (Fast, stable, and accessible interfaces with clean navigation and content that marketing can easily update)
-
-- Business websites ready to launch (Company sites and service pages published, configured, and prepared to capture contact and new opportunities)
-
-- Commerce platforms that convert (Headless e-commerce setups with reliable checkout, payment integration, and logistics flows working end to end)
-
-- Backend and integrations (Secure APIs, async processes, and data flows that keep critical parts of the business running predictably)
-
-- Automated operations (Internal routines for support, lead qualification, marketing, and reporting that run automatically)
-
-- Reliability and visibility (Monitoring, alerts, and clear health indicators so the team can spot issues early and fix them before users feel the impact)
-
----
 
