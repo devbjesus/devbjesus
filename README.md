@@ -18,7 +18,7 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
   <a href="https://linkedin.com/in/devbjesus">LinkedIn</a> 
 </p>
 
-<p align="center" style="font-style: italic">Worked for Samsung, Ambev, Polo Wear, The North Face, Creditas, Extrafarma, Fjallraven, WGACA NY and other brands.</p>
+<p align="center" style="font-style: italic">Worked for Samsung, Ambev, Polo Wear, The North Face, Creditas, Fjallraven, WGACA NY and other brands.</p>
 
 ---
 
@@ -49,10 +49,10 @@ I build fast, reliable web experiences and automate business workflows so market
 **Frontend / Web:** React, Next.js, TypeScript, Tailwind, Storybook  
 **Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
 **Testing / Quality:** Jest, Cypress, React Testing Library, SonarQube, Hotjar, Core Web Vitals, GA4    
-**Cloud / Reliability:** AWS (Lambda, API Gateway, S3, DynamoDB, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
+**Cloud / Reliability:** AWS (Lambda, API Gateway, S3, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
 **Monitoring / Observability:** Sentry, Datadog, Grafana, AWS (CloudWatch, X-Ray)  
 **Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
-**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (Themes, Apps, Storefronts), custom checkout, payment and logistics flows  
+**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (Themes, Apps, Storefronts), custom checkouts, logistics flows  
 
 
 
