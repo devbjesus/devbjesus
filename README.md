@@ -16,7 +16,6 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 <p align="center">
   <a href="mailto:devbjesus@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/devbjesus">LinkedIn</a> ·
-  <a href="https://github.com/devbjesus">GitHub</a>
 </p>
 
 <p align="center" style="font-style: italic">Worked for Samsung, Ambev, Polo Wear, The North Face, Creditas, Extrafarma, Fjallraven, WGACA NY and other brands.</p>
@@ -52,7 +51,7 @@ I build fast, reliable web experiences and automate business workflows so market
 **Commerce:** VTEX FastStore, custom checkout, payment and logistics flows  
 **Cloud & Reliability:** AWS (Lambda, API Gateway, S3, DynamoDB, SQS/SNS), Terraform, Kubernetes, Sentry, Datadog, Grafana
 
-See more on my <a href="https://linkedin.com/in/devbjesus">LinkedIn</a>
+<a href="https://linkedin.com/in/devbjesus"> See more informations on my LinkedIn by clicking here</a>
 
 ---
 
