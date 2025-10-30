@@ -48,8 +48,13 @@ I build fast, reliable web experiences and automate business workflows so market
 
 **Frontend / Web:** React, Next.js, TypeScript, Tailwind, Storybook  
 **Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
-**Commerce:** VTEX FastStore, custom checkout, payment and logistics flows  
-**Cloud & Reliability:** AWS (Lambda, API Gateway, S3, DynamoDB, SQS/SNS), Terraform, Kubernetes, Sentry, Datadog, Grafana
+**Testing / Quality:** Jest, Cypress, React Testing Library, SonarQube, Hotjar, Core Web Vitals, GA4    
+**Cloud / Reliability:** AWS (Lambda, API Gateway, S3, DynamoDB, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
+**Monitoring / Observability:** Sentry, Datadog, Grafana, AWS (CloudWatch, X-Ray)  
+**Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
+**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (Themes, Apps, Storefronts), custom checkout, payment and logistics flows  
+
+
 
 <a href="https://linkedin.com/in/devbjesus"> See more informations on my LinkedIn by clicking here</a>
 
