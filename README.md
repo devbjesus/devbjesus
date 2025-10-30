@@ -7,7 +7,6 @@ height="260"
 src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 </div>
 
-<br/>
 <p align="center">
   Senior Software Engineer · Frontend · AI Automation · Commerce Performance
   <br/>
