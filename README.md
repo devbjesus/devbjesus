@@ -46,13 +46,13 @@ I build fast, reliable web experiences and automate business workflows so market
   
 </div>
 
-**Frontend / Web:** React, Next.js, TypeScript, Tailwind, Storybook  
+**Frontend / Web:** React, Next.js, TypeScript, Tailwind, Storybook, WordPress  
 **Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
 **Testing / Quality:** Jest, Cypress, React Testing Library, SonarQube, Hotjar, Core Web Vitals, GA4    
 **Cloud / Reliability:** AWS (Lambda, API Gateway, S3, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
 **Monitoring / Observability:** Sentry, Datadog, Grafana, AWS (CloudWatch, X-Ray)  
 **Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
-**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (Themes, Apps, Storefronts), custom checkouts, logistics flows  
+**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (themes, apps, storefronts), custom apps and snippets  
 
 
 
