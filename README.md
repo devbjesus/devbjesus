@@ -14,8 +14,10 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 </p>
 
 <p align="center">
-  <a href="mailto:devbjesus@gmail.com">Email</a> ·
+  <a href="mailto:devbjesus@gmail.com">Email</a>
   <a href="https://linkedin.com/in/devbjesus">LinkedIn</a> 
+  <a href="https://brunojesus.lovable.app/?utm_source=github">Website</a> 
+
 </p>
 
 <p align="center" style="font-style: italic">Worked with Samsung, Ambev, Dengo, Polo Wear, Creditas, WGACA NY, Fjällräven and other brands.</p>
