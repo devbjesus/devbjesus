@@ -8,7 +8,7 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 </div>
 
 <p align="center">
-  Senior Software Engineer · Frontend · AI Automation · Commerce Performance
+  Senior Frontend Engineer · E-commerce Engineer · Node.js · Commerce Performance
   <br/>
   São Paulo, Brazil
 </p>
@@ -18,13 +18,13 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
   <a href="https://linkedin.com/in/devbjesus">LinkedIn</a> 
 </p>
 
-<p align="center" style="font-style: italic">Worked for Samsung, Ambev, Polo Wear, The North Face, Creditas, Fjallraven, WGACA NY and other brands.</p>
+<p align="center" style="font-style: italic">Worked with Samsung, Ambev, Dengo, Polo Wear, Creditas, WGACA NY, Fjällräven and other brands.</p>
 
 ---
 
 ### What I do
 
-I build fast, reliable web experiences and automate business workflows so marketing, operations, and commerce teams don’t need engineering for every change. I also help grow technical teams through hands-on mentoring.
+I help brands ship faster, more reliable e-commerce on Shopify and VTEX. Frontend-first (React/Next.js, TypeScript) with full-stack depth in Node.js and AWS for checkouts, integrations and other services.
 
 ---
 
@@ -46,13 +46,14 @@ I build fast, reliable web experiences and automate business workflows so market
   
 </div>
 
-**Frontend / Web:** React, Next.js, TypeScript, Tailwind, Storybook, WordPress  
-**Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
+**Ecommerce:** Shopify (themes, apps, storefronts), custom apps and snippets, VTEX (Store Framework, FastStore),  
+**Frontend / Web:** React, JavaScript, Next.js, TypeScript, Tailwind, Storybook, WordPress  
 **Testing / Quality:** Jest, Cypress, React Testing Library, SonarQube, Hotjar, Core Web Vitals, GA4    
+**Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
 **Cloud / Reliability:** AWS (Lambda, API Gateway, S3, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
 **Monitoring / Observability:** Sentry, Datadog, Grafana, AWS (CloudWatch, X-Ray)  
-**Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
-**Ecommerce:** VTEX (Store Framework, FastStore), Shopify (themes, apps, storefronts), custom apps and snippets  
+**Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
+
 
 
 
