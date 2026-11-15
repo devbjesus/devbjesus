@@ -8,7 +8,7 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 </div>
 
 <p align="center">
-  Senior Frontend Engineer · E-commerce Engineer · Node.js · Commerce Performance
+  Senior Software Engineer and AI Enabler · Node.js · Python 
   <br/>
   São Paulo, Brazil
 </p>
@@ -20,7 +20,7 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 
 </p>
 
-<p align="center" style="font-style: italic">Worked with Samsung, Ambev, Dengo, Polo Wear, Creditas, WGACA NY, Fjällräven and other brands.</p>
+<p align="center" style="font-style: italic">Worked with iFood, Resilience, Samsung, Ambev, Creditas, WGACA NY, Fjällräven and other brands.</p>
 
 ---
 
