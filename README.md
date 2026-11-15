@@ -24,12 +24,6 @@ src="https://cdn.pixabay.com/animation/2025/10/28/00/58/00-58-09-154_512.gif" />
 
 ---
 
-### What I do
-
-I help brands ship faster, more reliable e-commerce on Shopify and VTEX. Frontend-first (React/Next.js, TypeScript) with full-stack depth in Node.js and AWS for checkouts, integrations and other services.
-
----
-
 ### Main Stacks
 
 <div>
@@ -48,13 +42,13 @@ I help brands ship faster, more reliable e-commerce on Shopify and VTEX. Fronten
   
 </div>
 
-**Ecommerce:** Shopify (themes, apps, storefronts), custom apps and snippets, VTEX (Store Framework, FastStore),  
 **Frontend / Web:** React, JavaScript, Next.js, TypeScript, Tailwind, Storybook, WordPress  
+**Mobile / Android:** Kotlin  
 **Testing / Quality:** Jest, Cypress, React Testing Library, SonarQube, Hotjar, Core Web Vitals, GA4    
 **Back-End / Integrations:** Node.js, Python, RESTful / GraphQL APIs, Kafka, RabbitMQ, Redis, MongoDB, PostgreSQL  
 **Cloud / Reliability:** AWS (Lambda, API Gateway, S3, Kinesis, SQS/SNS), CDN, CI/CD, Terraform, Kubernetes  
 **Monitoring / Observability:** Sentry, Datadog, Grafana, AWS (CloudWatch, X-Ray)  
-**Automation / AI Ops:** n8n, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
+**Automation / AI Ops:** OpenSource custom systems, Python, event-driven flows, LLM integration, Bedrock / SageMaker  
 
 
 
